@@ -13,3 +13,7 @@ rouvrir discord et autres
 
 si autres problèmes https://docs.google.com/document/d/1iTlJ8BfqXUjaHO__TEdlkvuqB1WLOkGaudngc5SFLMI/edit
 
+open ai gpt3 install
+
+check this https://jman4190.medium.com/how-to-build-a-gpt-3-chatbot-with-python-7b83e55805e6
+
