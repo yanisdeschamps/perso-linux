@@ -25,3 +25,4 @@ umount /dev/sdc1 #si sdc1 est le disque qui a été monté
 sudo dd if=filename.iso of=/dev/sdc bs=4M
 sync   
 sudo eject /dev/sdc
+https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-bootable-de-linux-depuis-ubuntu-linux.html#methode-n4-avec-le-terminal
