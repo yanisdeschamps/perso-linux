@@ -19,7 +19,7 @@ check this https://jman4190.medium.com/how-to-build-a-gpt-3-chatbot-with-python-
 #i2c procedure
 https://stackoverflow.com/questions/42904712/i2c-not-detecting-issues-in-hardware-or-any-other
 
-comment monter un iso sur une cl2 usb :
+comment monter un iso sur une cl2 usb : //https://askubuntu.com/questions/995661/how-to-install-rufus-on-ubuntu-mate
 sudo fdisk -l 
 umount /dev/sdc1 #si sdc1 est le disque qui a été monté
 sudo dd if=filename.iso of=/dev/sdc bs=4M
